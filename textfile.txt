@@ -1,0 +1,5 @@
+i'm writing stuff in this text file.
+
+Will add more as I go.
+
+Okay. Time to commit this.
